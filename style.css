@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    padding: 30px 0;
+    text-align: center;
+}
+
+p{
+    margin: 10px auto;
+    text-align:justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.cabecalho{
+    background-color: #afddfb; 
+}
+
+.logo{
+    width: 150px;
+}
+
+.cabecalho p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 10px;
+}
+.cabecalho p a{
+    font-size: 18px;
+    color:#1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.secao-banner{
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+span{
+    font-weight: bold;
+}
+
+.secao-sobre h1{
+    color:#1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-sobre h2, .secao-corretores h3{
+    color: #1c81c0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.imagem-imovel, .corretores {
+    width: 450px;
+}
+
+.sobre,.corretor{
+    color: #1d80c1;
+}
+
+.secao-servicos{
+    background-color: #1d80c1;
+}
+
+.secao-servicos h3,.secao-contatos h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-servicos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.servicos, .contato{
+    color:#fff81b;
+}
+
+.secao-servicos ul{
+    margin: 40px auto;
+    width: 135px;
+
+}
+
+.secao-servicos li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+
+}
+
+h3{
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-corretores h3{
+    font-weight: bold;
+}
+    
+.secao-contatos{
+    background-color: #1d80c1;
+}
+
+.secao-contatos p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin:30px auto;
+}
+
+.secao-contatos ul{
+    margin: 40px auto;
+    width: 210px;
+}
+
+.secao-contatos li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.secao-contatos li a{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+
+}
